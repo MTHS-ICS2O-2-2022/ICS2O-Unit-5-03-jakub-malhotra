@@ -7,7 +7,7 @@
 "use strict";
 
 /**
- * This function updates the slider value.
+ * This function calculates the movie rating
  */
 function myButtonClicked() {
   const userAge = document.getElementById("age").value;
